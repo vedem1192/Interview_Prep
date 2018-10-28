@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbac6f8a-a7ed-4cc9-855b-f9aca313418b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="geekForGeeksDynProg.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/geekForGeeksDynProg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#shortestSuperSequence#0;class#geekForGeeksDynProg#0" expanded="false" />
+                <element signature="method#longestIncreasingSubsequence#0;class#geekForGeeksDynProg#0" expanded="false" />
+                <element signature="method#longestIncreasingSubsequence2#0;class#geekForGeeksDynProg#0" expanded="false" />
+                <element signature="method#superSequence#0;class#geekForGeeksDynProg#0" expanded="false" />
+                <element signature="method#print#0;class#geekForGeeksDynProg#0" expanded="false" />
+                <element signature="class#pt#0;class#geekForGeeksDynProg#0" expanded="false" />
+                <element signature="e#2481#2482#0" expanded="true" />
+                <element signature="e#2530#2531#0" expanded="true" />
+                <element signature="e#2583#2584#0" expanded="true" />
+                <element signature="e#2637#2638#0" expanded="true" />
+                <element signature="method#LIS#0;class#geekForGeeksDynProg#0" expanded="false" />
+                <element signature="method#LIS_2#0;class#geekForGeeksDynProg#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SortStack.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter3.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Kadane.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Graph.java" />
+        <option value="$PROJECT_DIR$/src/com/company/GoogleCodeSample.java" />
+        <option value="$PROJECT_DIR$/src/com/company/geekForGeeks.java" />
+        <option value="$PROJECT_DIR$/src/com/company/geekForGeeksQueueStacks.java" />
+        <option value="$PROJECT_DIR$/src/com/company/geekForGeeksBacktracking.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/geekForGeeksDynProg.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cracking_the_coding_interview_part_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cracking_the_coding_interview_part_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cracking_the_coding_interview_part_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cracking_the_coding_interview_part_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cracking_the_coding_interview_part_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cracking_the_coding_interview_part_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="cracking_the_coding_interview_part_2" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbac6f8a-a7ed-4cc9-855b-f9aca313418b" name="Default" comment="" />
+      <created>1532815117437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532815117437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27932286" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2756953" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18025751" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3337364" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="55" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GoogleCodeSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="195" column="66" lean-forward="false" selection-start-line="195" selection-start-column="66" selection-end-line="195" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#question1#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#solution#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#getUpperCase#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#condingSample1#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#codingSample1#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#filter#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#countDuplicates#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#condingSample2#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#codingSample2#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#getMax#0;class#GoogleCodeSample#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GoogleCodeSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="168" column="21" lean-forward="true" selection-start-line="168" selection-start-column="21" selection-end-line="168" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#question1#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#solution#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#getUpperCase#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#condingSample1#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#codingSample1#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#filter#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#countDuplicates#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#condingSample2#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#codingSample2#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#getMax#0;class#GoogleCodeSample#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3960">
+          <caret line="264" column="17" lean-forward="false" selection-start-line="264" selection-start-column="17" selection-end-line="264" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3960">
+          <caret line="264" column="17" lean-forward="false" selection-start-line="264" selection-start-column="17" selection-end-line="264" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SortStack.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="264" column="17" lean-forward="false" selection-start-line="264" selection-start-column="17" selection-end-line="264" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MissingNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#405#414#0" expanded="false" />
+            <element signature="method#stackPrint#0;class#Chapter3#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/geekForGeeks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="method#missingNumberInArray#0;class#geekForGeeks#0" expanded="false" />
+            <element signature="method#subArrayWithGivenSum#0;class#geekForGeeks#0" expanded="false" />
+            <element signature="method#parenthesisChecker#0;class#geekForGeeks#0" expanded="false" />
+            <element signature="method#reverseSentence#0;class#geekForGeeks#0" expanded="false" />
+            <element signature="method#find_ms#0;class#geekForGeeks#0" expanded="false" />
+            <element signature="method#subArray#0;class#geekForGeeks#0" expanded="false" />
+            <element signature="method#parenthesisChecker#1;class#geekForGeeks#0" expanded="false" />
+            <element signature="method#setMyMap#0;class#geekForGeeks#0" expanded="false" />
+            <element signature="method#reverseSentence#1;class#geekForGeeks#0" expanded="false" />
+            <element signature="method#makeGraph#0;class#geekForGeeks#0" expanded="false" />
+            <element signature="method#depthFirstTraversal#0;class#geekForGeeks#0" expanded="false" />
+            <element signature="method#breadthFirstTraversal#0;class#geekForGeeks#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/geekForGeeksQueueStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="48" column="28" lean-forward="false" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#printNLE_n#0;class#geekForGeeksQueueStacks#0" expanded="false" />
+            <element signature="method#myStackQueue#0;class#geekForGeeksQueueStacks#0" expanded="false" />
+            <element signature="method#myQueueStack#0;class#geekForGeeksQueueStacks#0" expanded="false" />
+            <element signature="method#myLinkedListQueue#0;class#geekForGeeksQueueStacks#0" expanded="false" />
+            <element signature="method#myLinkedListStack#0;class#geekForGeeksQueueStacks#0" expanded="false" />
+            <element signature="method#printNLE_naif#0;class#geekForGeeksQueueStacks#0" expanded="false" />
+            <element signature="class#MyStackQueue#0;class#geekForGeeksQueueStacks#0" expanded="false" />
+            <element signature="e#1836#1837#0" expanded="true" />
+            <element signature="e#1870#1871#0" expanded="true" />
+            <element signature="e#2106#2107#0" expanded="true" />
+            <element signature="e#2165#2166#0" expanded="true" />
+            <element signature="class#MyQueueStack#0;class#geekForGeeksQueueStacks#0" expanded="false" />
+            <element signature="method#push#0;class#MyQueueStack#0;class#geekForGeeksQueueStacks#0" expanded="false" />
+            <element signature="e#2652#2653#0" expanded="true" />
+            <element signature="e#2691#2692#0" expanded="true" />
+            <element signature="e#2719#2720#0" expanded="true" />
+            <element signature="e#2762#2763#0" expanded="true" />
+            <element signature="class#MyLinkedListQueue#0;class#geekForGeeksQueueStacks#0" expanded="false" />
+            <element signature="e#2879#2880#0" expanded="true" />
+            <element signature="e#2914#2915#0" expanded="true" />
+            <element signature="e#2934#2935#0" expanded="true" />
+            <element signature="e#2976#2977#0" expanded="true" />
+            <element signature="e#3004#3005#0" expanded="true" />
+            <element signature="e#3051#3052#0" expanded="true" />
+            <element signature="class#MyLinkedListStack#0;class#geekForGeeksQueueStacks#0" expanded="false" />
+            <element signature="e#3168#3169#0" expanded="true" />
+            <element signature="e#3208#3209#0" expanded="true" />
+            <element signature="e#3227#3228#0" expanded="true" />
+            <element signature="e#3269#3270#0" expanded="true" />
+            <element signature="e#3296#3297#0" expanded="true" />
+            <element signature="e#3343#3344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Kadane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="58" column="34" lean-forward="false" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GoogleCodeSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="173" column="27" lean-forward="false" selection-start-line="173" selection-start-column="25" selection-end-line="173" selection-end-column="27" />
+          <folding>
+            <element signature="method#question1#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#solution#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#getUpperCase#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#condingSample1#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#codingSample1#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#filter#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#countDuplicates#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#condingSample2#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#codingSample2#0;class#GoogleCodeSample#0" expanded="false" />
+            <element signature="method#getMax#0;class#GoogleCodeSample#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/geekForGeeksBacktracking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="269" column="5" lean-forward="false" selection-start-line="269" selection-start-column="5" selection-end-line="269" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#nQueen#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#ratInMaze#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#wordBoggle#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#ipGenerator#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="class#NQueenProblem#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#NQueenProblem#0;class#NQueenProblem#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#isSafe#0;class#NQueenProblem#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#printQueen#0;class#NQueenProblem#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#solveQueenUtil#0;class#NQueenProblem#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#solveQueen#0;class#NQueenProblem#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="class#Sudoku#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#Sudoku#0;class#Sudoku#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#isSafe#0;class#Sudoku#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#solve#0;class#Sudoku#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#print#0;class#Sudoku#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="class#RatInMaze#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#solveUtil#0;class#RatInMaze#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#solve#0;class#RatInMaze#0;class#geekForGeeksBacktracking#0" expanded="false" />
+            <element signature="method#print#0;class#RatInMaze#0;class#geekForGeeksBacktracking#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/geekForGeeksDynProg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#shortestSuperSequence#0;class#geekForGeeksDynProg#0" expanded="false" />
+            <element signature="method#longestIncreasingSubsequence#0;class#geekForGeeksDynProg#0" expanded="false" />
+            <element signature="method#longestIncreasingSubsequence2#0;class#geekForGeeksDynProg#0" expanded="false" />
+            <element signature="method#superSequence#0;class#geekForGeeksDynProg#0" expanded="false" />
+            <element signature="method#print#0;class#geekForGeeksDynProg#0" expanded="false" />
+            <element signature="class#pt#0;class#geekForGeeksDynProg#0" expanded="false" />
+            <element signature="e#2481#2482#0" expanded="true" />
+            <element signature="e#2530#2531#0" expanded="true" />
+            <element signature="e#2583#2584#0" expanded="true" />
+            <element signature="e#2637#2638#0" expanded="true" />
+            <element signature="method#LIS#0;class#geekForGeeksDynProg#0" expanded="false" />
+            <element signature="method#LIS_2#0;class#geekForGeeksDynProg#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
