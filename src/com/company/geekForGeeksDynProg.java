@@ -1,7 +1,7 @@
 package com.company;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
+import java.util.*;
+
 
 public class geekForGeeksDynProg {
 
@@ -24,6 +24,12 @@ public class geekForGeeksDynProg {
 
         System.out.print(longestCommonSubsequence(s1, s2));
     }
+    public void boxStacking(){
+        int[] i = {4,7,9,5,8,9,11,20,40,1,2,3};
+        System.out.print("Max height : " + maxHeight(i));
+    }
+
+
 
     private int superSequence(String s1, String s2, int m, int n){
         int[][] dp = new int[m+1][n+1];
@@ -158,5 +164,65 @@ public class geekForGeeksDynProg {
 
 
 
+    private class Box implements Comparable<Box> {
+        public final int H, W, L;
 
+        public Box(int H, int W, int L){
+            this.H = H;
+            this.W = W;
+            this.L = L;
+        }
+
+        boolean fitOn(Box b){
+            return W < b.W && L < b.L;
+        }
+
+        // sort in decreasing order
+        @Override
+        public int compareTo(Box o) {
+            int myArea = W*L;
+            int otherBoxArea = o.W*o.L;
+            return otherBoxArea - myArea;
+        }
+    }
+
+    private Box[] boxHelper(int[] arr){
+        Box[] list = new Box[arr.length];
+
+        if(arr.length % 3 != 0)
+            return list;
+
+        for(int i = 0; i < arr.length; i+= 3){
+            int h = arr[i];
+            int w = arr[i+1];
+            int l = arr[i+2];
+
+            list[i] = new Box(h,w,l);
+            list[i + 1] = new Box(w,h,l);
+            list[i + 2] = new Box(l,h,w);
+        }
+
+        Arrays.sort(list);
+        return list;
+    }
+
+    private int maxHeight(int[] arr) {
+        Box[] boxes = boxHelper(arr);
+
+        int[] max_stack_height = new int[boxes.length];
+        for(int i = 0; i < boxes.length; i++){
+            max_stack_height[i] = boxes[i].H;
+        }
+
+        for(int i = 1; i < boxes.length; i++){
+            for(int j = 0; j < i; j++){
+                if(boxes[i].fitOn(boxes[j])){
+                    max_stack_height[i] = Math.max(max_stack_height[i], max_stack_height[j] + boxes[i].H);
+                }
+            }
+        }
+
+        Arrays.sort(max_stack_height);
+        return max_stack_height[max_stack_height.length - 1];
+    }
 }
