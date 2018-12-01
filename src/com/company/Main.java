@@ -1,5 +1,6 @@
 package com.company;
 
+import com.company.Trees.AVLTree;
 import com.company.Trees.MyBinaryTree;
 import com.company.Trees.Type;
 
@@ -19,6 +20,9 @@ public class Main {
         GoogleCodeSample google = new GoogleCodeSample();
         Sorting sorting = new Sorting();
         MyBinaryTree binaryTree = new MyBinaryTree();
+        AVLTree avl = new AVLTree();
+        myCircularArray circularArray = new myCircularArray();
+
 
         System.out.println("- Chapter 1 : Arrays and Strings - - - - -");
 //        c1.questionOne();
@@ -67,7 +71,20 @@ public class Main {
 //        sorting.mergeSort();
 
 //        binaryTree.print(Type.postorder);
-        System.out.print(binaryTree.contains(7));
+//        System.out.print(binaryTree.contains(7));
+//        binaryTree.delete(6);
+//        binaryTree.BFS();
+//        binaryTree.isMirrorTree();
+//        avl.insert(11);
+//        avl.insert(10);
+//        avl.BFS();
+
+
+//        circularArray.read();
+        Hanoi.resolveFor(4);
+
+
     }
+
 
 }
