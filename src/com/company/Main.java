@@ -2,7 +2,6 @@ package com.company;
 
 import com.company.Trees.AVLTree;
 import com.company.Trees.MyBinaryTree;
-import com.company.Trees.Type;
 
 public class Main {
 
@@ -17,7 +16,7 @@ public class Main {
         geekForGeeksQueueStacks gfgQS = new geekForGeeksQueueStacks();
         geekForGeeksBacktracking gfgBT = new geekForGeeksBacktracking();
         geekForGeeksDynProg gfgDP = new geekForGeeksDynProg();
-        GoogleCodeSample google = new GoogleCodeSample();
+        GGCodeSample google = new GGCodeSample();
         Sorting sorting = new Sorting();
         MyBinaryTree binaryTree = new MyBinaryTree();
         AVLTree avl = new AVLTree();
@@ -37,7 +36,7 @@ public class Main {
 
 
 //        kadane.maxSumNoIndex();
-//        kadane.maxSumWithIndex();
+        kadane.maxSumWithIndex();
 //        geekForGeeks_.missingNumberInArray();
 //        geekForGeeks_.subArrayWithGivenSum();
 //        geekForGeeks_.parenthesisChecker();
@@ -81,7 +80,9 @@ public class Main {
 
 
 //        circularArray.read();
-        Hanoi.resolveFor(4);
+//        Hanoi.resolveFor(4);
+//        Knapsack knapsack = new Knapsack();
+//        knapsack.knapsack();
 
 
     }
