@@ -36,13 +36,14 @@ public class Main {
 
 
 //        kadane.maxSumNoIndex();
-        kadane.maxSumWithIndex();
+//        kadane.maxSumWithIndex();
 //        geekForGeeks_.missingNumberInArray();
 //        geekForGeeks_.subArrayWithGivenSum();
 //        geekForGeeks_.parenthesisChecker();
 //        geekForGeeks_.reverseSentence();
 //        geekForGeeks_.depthFirstTraversal();
 //        geekForGeeks_.breadthFirstTraversal();
+        geekForGeeks_.topologicalSort();
 
 //        google.question1();
 //        google.condingSample1();
@@ -83,6 +84,10 @@ public class Main {
 //        Hanoi.resolveFor(4);
 //        Knapsack knapsack = new Knapsack();
 //        knapsack.knapsack();
+
+//        CoinChange cc = new CoinChange();
+//        cc.numberOfWays();
+//        cc.minCoin();
 
 
     }

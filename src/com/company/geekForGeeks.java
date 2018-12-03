@@ -162,6 +162,20 @@ public class geekForGeeks {
         return g;
     }
 
+    private Graph makeTopoGraph(){
+        Graph g = new Graph(6);
+
+        g.addEdge(5, 2);
+        g.addEdge(5, 0);
+
+        g.addEdge(2, 3);
+        g.addEdge(3, 1);
+        g.addEdge(4, 1);
+        g.addEdge(4, 0);
+
+        return g;
+    }
+
     // Depth first traversal
     public void depthFirstTraversal() {
         Graph g = makeGraph();
@@ -182,6 +196,11 @@ public class geekForGeeks {
         g.breadthFirstTraversal(0);
     }
 
+    public void topologicalSort(){
+        Graph g = makeTopoGraph();
+        System.out.println("Following is topological sort ");
+        g.topologicalSort();
+    }
 
 
 
